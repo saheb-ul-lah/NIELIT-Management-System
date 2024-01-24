@@ -1,0 +1,8 @@
+W3Schools>MySql Database> MySQL COnnect> example (MySQLi Object-Oriented)
+//Create connection
+//Check connection
+//Create database
+$conn->close();
+
+
+HTTP methods>Compare GET vs. POST
